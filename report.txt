@@ -1,0 +1,4 @@
+Hotel Report
+Individual Customer
+Corporate Customer - 10% discount
+Foreign customer + 5% tax rate
